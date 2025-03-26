@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Kamaq.Finsights.Api.props" />
+</Project>

@@ -1,0 +1,15 @@
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/Kamaq.Finsights.Application.csproj.AssemblyReference.cache
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/Kamaq.Finsights.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/Kamaq.Finsights.Application.AssemblyInfoInputs.cache
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/Kamaq.Finsights.Application.AssemblyInfo.cs
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/Kamaq.Finsights.Application.csproj.CoreCompileInputs.cache
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/bin/Debug/net9.0/Kamaq.Finsights.Application.deps.json
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/bin/Debug/net9.0/Kamaq.Finsights.Application.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/bin/Debug/net9.0/Kamaq.Finsights.Application.pdb
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/bin/Debug/net9.0/Kamaq.Finsights.Domain.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/bin/Debug/net9.0/Kamaq.Finsights.Domain.pdb
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/Kamaq.Fi.4634D589.Up2Date
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/Kamaq.Finsights.Application.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/refint/Kamaq.Finsights.Application.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/Kamaq.Finsights.Application.pdb
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/Debug/net9.0/ref/Kamaq.Finsights.Application.dll

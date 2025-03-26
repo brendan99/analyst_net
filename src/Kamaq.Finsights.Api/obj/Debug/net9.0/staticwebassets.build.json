@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6wfmPsk2J198ClA/ulayT7ZKPt8aQu8ktThVs3m3OeE=",
+  "Source": "Kamaq.Finsights.Api",
+  "BasePath": "_content/Kamaq.Finsights.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

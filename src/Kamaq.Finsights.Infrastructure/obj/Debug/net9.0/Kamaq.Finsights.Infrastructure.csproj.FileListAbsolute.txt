@@ -1,0 +1,17 @@
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.csproj.AssemblyReference.cache
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.AssemblyInfoInputs.cache
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.AssemblyInfo.cs
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/bin/Debug/net9.0/Kamaq.Finsights.Infrastructure.deps.json
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/bin/Debug/net9.0/Kamaq.Finsights.Infrastructure.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/bin/Debug/net9.0/Kamaq.Finsights.Infrastructure.pdb
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/bin/Debug/net9.0/Kamaq.Finsights.Application.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/bin/Debug/net9.0/Kamaq.Finsights.Domain.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/bin/Debug/net9.0/Kamaq.Finsights.Application.pdb
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/bin/Debug/net9.0/Kamaq.Finsights.Domain.pdb
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Fi.E08204FF.Up2Date
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/refint/Kamaq.Finsights.Infrastructure.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.pdb
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/ref/Kamaq.Finsights.Infrastructure.dll

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-Kamaq.Finsights.Worker-792556d2-36c3-49cb-8689-ec9173c4ef12</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.3" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="9.0.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kamaq.Finsights.Application\Kamaq.Finsights.Application.csproj" />
+    <ProjectReference Include="..\Kamaq.Finsights.Infrastructure\Kamaq.Finsights.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
