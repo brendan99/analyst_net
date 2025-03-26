@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {
+    "net8.0": {
       "coverlet.collector/6.0.2": {
         "type": "package",
         "build": {
@@ -935,7 +935,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net9.0": [
+    "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -943,29 +943,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/brendancoen/.nuget/packages/": {}
+    "C:\\Users\\BCoen\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Api.Tests/Kamaq.Finsights.Api.Tests.csproj",
+      "projectUniqueName": "C:\\dev\\analyst_net\\tests\\Kamaq.Finsights.Api.Tests\\Kamaq.Finsights.Api.Tests.csproj",
       "projectName": "Kamaq.Finsights.Api.Tests",
-      "projectPath": "/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Api.Tests/Kamaq.Finsights.Api.Tests.csproj",
-      "packagesPath": "/Users/brendancoen/.nuget/packages/",
-      "outputPath": "/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Api.Tests/obj/",
+      "projectPath": "C:\\dev\\analyst_net\\tests\\Kamaq.Finsights.Api.Tests\\Kamaq.Finsights.Api.Tests.csproj",
+      "packagesPath": "C:\\Users\\BCoen\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\analyst_net\\tests\\Kamaq.Finsights.Api.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/brendancoen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\BCoen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://prsvso.pkgs.visualstudio.com/_packaging/IAM/nuget/v3/index.json": {},
+        "https://prsvso.pkgs.visualstudio.com/_packaging/aa-CommonLibraries/nuget/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -978,12 +988,11 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -1018,7 +1027,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
