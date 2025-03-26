@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kamaq.Finsights.Worker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb79f4720b838af73e91f7071fea6c66dd94de0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kamaq.Finsights.Worker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kamaq.Finsights.Worker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

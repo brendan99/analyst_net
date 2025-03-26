@@ -201,3 +201,4 @@
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Api/obj/Debug/net9.0/ref/Kamaq.Finsights.Api.dll
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Api/bin/Debug/net9.0/HtmlAgilityPack.dll
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Api/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Api/obj/Debug/net9.0/Kamaq.Finsights.Api.sourcelink.json

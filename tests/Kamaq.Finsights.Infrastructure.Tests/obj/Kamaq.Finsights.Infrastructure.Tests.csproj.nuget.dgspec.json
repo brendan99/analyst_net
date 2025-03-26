@@ -1,42 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\analyst_net\\tests\\Kamaq.Finsights.Infrastructure.Tests\\Kamaq.Finsights.Infrastructure.Tests.csproj": {}
+    "/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/Kamaq.Finsights.Infrastructure.Tests.csproj": {}
   },
   "projects": {
-    "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Application\\Kamaq.Finsights.Application.csproj": {
+    "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/Kamaq.Finsights.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Application\\Kamaq.Finsights.Application.csproj",
+        "projectUniqueName": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/Kamaq.Finsights.Application.csproj",
         "projectName": "Kamaq.Finsights.Application",
-        "projectPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Application\\Kamaq.Finsights.Application.csproj",
-        "packagesPath": "C:\\Users\\BCoen\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Application\\obj\\",
+        "projectPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/Kamaq.Finsights.Application.csproj",
+        "packagesPath": "/Users/brendancoen/.nuget/packages/",
+        "outputPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BCoen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brendancoen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://prsvso.pkgs.visualstudio.com/_packaging/IAM/nuget/v3/index.json": {},
-          "https://prsvso.pkgs.visualstudio.com/_packaging/aa-CommonLibraries/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Domain\\Kamaq.Finsights.Domain.csproj": {
-                "projectPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Domain\\Kamaq.Finsights.Domain.csproj"
+              "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/Kamaq.Finsights.Domain.csproj": {
+                "projectPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/Kamaq.Finsights.Domain.csproj"
               }
             }
           }
@@ -50,11 +41,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -105,40 +97,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Domain\\Kamaq.Finsights.Domain.csproj": {
+    "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/Kamaq.Finsights.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Domain\\Kamaq.Finsights.Domain.csproj",
+        "projectUniqueName": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/Kamaq.Finsights.Domain.csproj",
         "projectName": "Kamaq.Finsights.Domain",
-        "projectPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Domain\\Kamaq.Finsights.Domain.csproj",
-        "packagesPath": "C:\\Users\\BCoen\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Domain\\obj\\",
+        "projectPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/Kamaq.Finsights.Domain.csproj",
+        "packagesPath": "/Users/brendancoen/.nuget/packages/",
+        "outputPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BCoen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brendancoen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://prsvso.pkgs.visualstudio.com/_packaging/IAM/nuget/v3/index.json": {},
-          "https://prsvso.pkgs.visualstudio.com/_packaging/aa-CommonLibraries/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -151,11 +134,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -178,43 +162,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Infrastructure\\Kamaq.Finsights.Infrastructure.csproj": {
+    "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/Kamaq.Finsights.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Infrastructure\\Kamaq.Finsights.Infrastructure.csproj",
+        "projectUniqueName": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/Kamaq.Finsights.Infrastructure.csproj",
         "projectName": "Kamaq.Finsights.Infrastructure",
-        "projectPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Infrastructure\\Kamaq.Finsights.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\BCoen\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Infrastructure\\obj\\",
+        "projectPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/Kamaq.Finsights.Infrastructure.csproj",
+        "packagesPath": "/Users/brendancoen/.nuget/packages/",
+        "outputPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BCoen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brendancoen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://prsvso.pkgs.visualstudio.com/_packaging/IAM/nuget/v3/index.json": {},
-          "https://prsvso.pkgs.visualstudio.com/_packaging/aa-CommonLibraries/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Application\\Kamaq.Finsights.Application.csproj": {
-                "projectPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Application\\Kamaq.Finsights.Application.csproj"
+              "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/Kamaq.Finsights.Application.csproj": {
+                "projectPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Application/Kamaq.Finsights.Application.csproj"
               }
             }
           }
@@ -228,11 +203,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "HtmlAgilityPack": {
               "target": "Package",
@@ -291,43 +267,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\dev\\analyst_net\\tests\\Kamaq.Finsights.Infrastructure.Tests\\Kamaq.Finsights.Infrastructure.Tests.csproj": {
+    "/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/Kamaq.Finsights.Infrastructure.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\analyst_net\\tests\\Kamaq.Finsights.Infrastructure.Tests\\Kamaq.Finsights.Infrastructure.Tests.csproj",
+        "projectUniqueName": "/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/Kamaq.Finsights.Infrastructure.Tests.csproj",
         "projectName": "Kamaq.Finsights.Infrastructure.Tests",
-        "projectPath": "C:\\dev\\analyst_net\\tests\\Kamaq.Finsights.Infrastructure.Tests\\Kamaq.Finsights.Infrastructure.Tests.csproj",
-        "packagesPath": "C:\\Users\\BCoen\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\analyst_net\\tests\\Kamaq.Finsights.Infrastructure.Tests\\obj\\",
+        "projectPath": "/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/Kamaq.Finsights.Infrastructure.Tests.csproj",
+        "packagesPath": "/Users/brendancoen/.nuget/packages/",
+        "outputPath": "/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BCoen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brendancoen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://prsvso.pkgs.visualstudio.com/_packaging/IAM/nuget/v3/index.json": {},
-          "https://prsvso.pkgs.visualstudio.com/_packaging/aa-CommonLibraries/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Infrastructure\\Kamaq.Finsights.Infrastructure.csproj": {
-                "projectPath": "C:\\dev\\analyst_net\\src\\Kamaq.Finsights.Infrastructure\\Kamaq.Finsights.Infrastructure.csproj"
+              "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/Kamaq.Finsights.Infrastructure.csproj": {
+                "projectPath": "/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/Kamaq.Finsights.Infrastructure.csproj"
               }
             }
           }
@@ -341,11 +308,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -388,7 +356,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

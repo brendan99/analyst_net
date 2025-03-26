@@ -95,3 +95,4 @@
 /Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Application.Tests/obj/Debug/net9.0/Kamaq.Finsights.Application.Tests.pdb
 /Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Application.Tests/obj/Debug/net9.0/Kamaq.Finsights.Application.Tests.genruntimeconfig.cache
 /Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Application.Tests/obj/Debug/net9.0/ref/Kamaq.Finsights.Application.Tests.dll
+/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Application.Tests/obj/Debug/net9.0/Kamaq.Finsights.Application.Tests.sourcelink.json

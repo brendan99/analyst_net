@@ -10,3 +10,4 @@
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/obj/Debug/net9.0/refint/Kamaq.Finsights.Domain.dll
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/obj/Debug/net9.0/Kamaq.Finsights.Domain.pdb
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/obj/Debug/net9.0/ref/Kamaq.Finsights.Domain.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Domain/obj/Debug/net9.0/Kamaq.Finsights.Domain.sourcelink.json

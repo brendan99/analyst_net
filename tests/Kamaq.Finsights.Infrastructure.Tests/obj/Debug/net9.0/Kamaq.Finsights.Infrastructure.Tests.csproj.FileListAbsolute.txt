@@ -185,3 +185,4 @@
 /Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/bin/Debug/net9.0/Kamaq.Finsights.Infrastructure.pdb
 /Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/bin/Debug/net9.0/Kamaq.Finsights.Application.pdb
 /Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/bin/Debug/net9.0/Kamaq.Finsights.Domain.pdb
+/Users/brendancoen/dev/analyst_net/tests/Kamaq.Finsights.Infrastructure.Tests/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.Tests.sourcelink.json

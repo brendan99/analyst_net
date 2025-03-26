@@ -15,3 +15,4 @@
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/refint/Kamaq.Finsights.Infrastructure.dll
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.pdb
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/ref/Kamaq.Finsights.Infrastructure.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Infrastructure/obj/Debug/net9.0/Kamaq.Finsights.Infrastructure.sourcelink.json

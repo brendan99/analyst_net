@@ -118,3 +118,4 @@
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Worker/obj/Debug/net9.0/ref/Kamaq.Finsights.Worker.dll
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Worker/bin/Debug/net9.0/HtmlAgilityPack.dll
 /Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Worker/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/brendancoen/dev/analyst_net/src/Kamaq.Finsights.Worker/obj/Debug/net9.0/Kamaq.Finsights.Worker.sourcelink.json
